@@ -1,0 +1,9 @@
+let game
+let aboutGame
+let gameVersion
+let characterName
+let gameDeveloperName
+let programmingLanguage
+let programmingLanguageVersion
+let mapName
+let developerSite

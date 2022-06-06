@@ -1,0 +1,17 @@
+const myName = "Юсуф";
+const lastName = 'Магомадов';
+console.log(`${lastName} ${myName}`);
+
+let one = 1;
+let two = 2;
+let result = one + two;
+let result2 = two - one;
+let result3 = one * two;
+let result4 = two / one;
+console.log(result);
+console.log(result2);
+console.log(result3);
+console.log(result4);
+
+
+

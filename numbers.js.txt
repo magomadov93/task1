@@ -1,0 +1,25 @@
+let myAge = 29;
+let yearOfBirth = 1993;
+let birthNumber = 31;
+let myBrothers = 1;
+let numberOfSisters = 1;
+let myFamily = 5;
+let fare;
+let year = 2022;
+let dollar = 36,6;
+let euro = 67,93;
+let bitcoin = 1 905 070,46;
+
+let resultMyAge = year - yearOfBirth;
+let result = year - myAge
+let resultMyFamily = myBrothers + numberOfSisters;
+let resultEuro = euro * 1000
+let resultDollar = dollar * 2.5
+let resultBitcoin = bitcoin / 1000;
+let resultFareAndDollar = fare / dollar;
+let resultFamily = myFamily - myBrothers -numberOfSisters;
+let resultDivision = 0 / myAge;
+let resultColculation = 35 - myAge;
+
+
+
